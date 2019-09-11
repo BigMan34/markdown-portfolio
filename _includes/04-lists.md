@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li> :cat: </li>
+  <li> :dog: </li>
+  <li> :peach: </li>
+  </ol>
